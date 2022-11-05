@@ -1,11 +1,12 @@
 /*********************************************************************************
- *  WEB322 – Assignment 04
- *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source
- *  (including 3rd party web sites) or distributed to other students.
+ *  WEB322 – Assignment 3
+ *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.
+ *  No part of this assignment has been copied manually or electronically from any other source
+ *  (including web sites) or distributed to other students.
  *
- *  Name: ______________________ Student ID: ______________ Date: ________________
+ *  Name: Nishit Shah Student ID: 130 176 217 Date: 4th Nov 2022
  *
- *  Online (Cyclic) Link: ________________________________________________________
+ *  Online (Cyclic) URL: https://jade-agreeable-tuna.cyclic.app/
  *
  ********************************************************************************/
 
